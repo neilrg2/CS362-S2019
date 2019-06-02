@@ -117,4 +117,4 @@ randomtestresults: randomtestcard2.c randomtestcard1.c randomtestadventurer.c do
 all: playdom player unittestresults randomtestresults
 
 clean:
-	rm -f *.o playdom.exe playdom player player.exe  *.gcov *.gcda *.gcno *.so *.out testDrawCard testDrawCard.exe unittest1 unittest2 unittest3 unittest4 cardtest1 cardtest2 cardtest3 cardtest4 randomtestadventurer adventurerTestScript randomTestCardOneScript randomTestTwoScript randomtestcard1 randomtestcard2
+	rm -f *.o playdom.exe playdom player player.exe  *.gcov *.gcda *.gcno *.so *.out testDrawCard testDrawCard.exe unittest1 unittest2 unittest3 unittest4 cardtest1 cardtest2 cardtest3 cardtest4 randomtestadventurer adventurerTestScript randomTestCardOneScript randomTestCardTwoScript randomtestcard1 randomtestcard2
