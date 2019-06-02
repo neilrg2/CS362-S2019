@@ -1,0 +1,37 @@
+**************************************
+RANDOMTESTADVENTURER:
+RESULTS - For 2000 Iterations of adventurer calls:
+Passed - 2000
+TESTS OK - adventurer test COMPLETED
+**************************************
+File 'randomtestadventurer.c'
+Lines executed:100.00% of 34
+Branches executed:100.00% of 14
+Taken at least once:85.71% of 14
+No calls
+randomtestadventurer.c:creating 'randomtestadventurer.c.gcov'
+
+**************************************
+RESULTS - For 500 Iterations of _smithy calls:
+Passed - 500
+TESTS OK - _smithy test COMPLETED
+**************************************
+File 'randomtestcard1.c'
+Lines executed:100.00% of 21
+Branches executed:100.00% of 4
+Taken at least once:100.00% of 4
+No calls
+randomtestcard1.c:creating 'randomtestcard1.c.gcov'
+
+**************************************
+RESULTS - For 500 Iterations of great_hall calls:
+Passed - 500
+TESTS OK - _great_hall test COMPLETED
+**************************************
+File 'randomtestcard2.c'
+Lines executed:100.00% of 20
+Branches executed:100.00% of 2
+Taken at least once:100.00% of 2
+No calls
+randomtestcard2.c:creating 'randomtestcard2.c.gcov'
+

@@ -1,0 +1,82 @@
+Result for running unittestresults:
+unittest1.c:
+_smithy(): FAIL test should be 7
+_smithy(): PASS test should be 8
+_smithy(): PASS test should be 7
+_smithy(): PASS test should be 6
+_smithy(): PASS test should be 5
+File 'dominion.c'
+Lines executed:20.45% of 660
+dominion.c:creating 'dominion.c.gcov'
+
+unittest2.c:
+_village(): PASS numActions must be 3
+_village(): PASS numActions must be 5
+_village(): PASS numActions must be 7
+_village(): PASS numActions must be 9
+_village(): PASS numActions must be 11
+File 'dominion.c'
+Lines executed:21.21% of 660
+dominion.c:creating 'dominion.c.gcov'
+
+unittest3.c:
+_great_hall(): PASS numActions must be 2
+_great_hall(): PASS numActions must be 3
+_great_hall(): PASS numActions must be 4
+_great_hall(): PASS numActions must be 5
+_great_hall(): PASS numActions must be 6
+File 'dominion.c'
+Lines executed:21.97% of 660
+dominion.c:creating 'dominion.c.gcov'
+
+unittest4.c:
+6
+_embargo(): PASS coins must be 6
+_embargo(): PASS coins must be 8
+_embargo(): PASS coins must be 10
+_embargo(): PASS coins must be 12
+_embargo(): PASS coins must be 14
+File 'dominion.c'
+Lines executed:23.64% of 660
+dominion.c:creating 'dominion.c.gcov'
+
+cardtest1.c:
+_smithy(): FAIL smithy should be 7
+_smithy(): PASS smithy should be 8
+_smithy(): PASS smithy should be 7
+_smithy(): PASS smithy should be 6
+_smithy(): PASS smithy should be 5
+File 'dominion.c'
+Lines executed:25.00% of 660
+dominion.c:creating 'dominion.c.gcov'
+
+cardtest2.c:
+_adventurer(): PASS
+_adventurer(): PASS
+_adventurer(): PASS
+_adventurer(): PASS
+_adventurer(): PASS
+File 'dominion.c'
+Lines executed:29.09% of 660
+dominion.c:creating 'dominion.c.gcov'
+
+cardtest3.c:
+council_room: PASS
+council_room: PASS
+council_room: PASS
+council_room: PASS
+council_room: PASS
+File 'dominion.c'
+Lines executed:31.36% of 660
+dominion.c:creating 'dominion.c.gcov'
+
+cardtest4.c:
+outpost: PASS
+outpost: PASS
+outpost: PASS
+outpost: PASS
+outpost: PASS
+File 'dominion.c'
+Lines executed:31.82% of 660
+dominion.c:creating 'dominion.c.gcov'
+
